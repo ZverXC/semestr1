@@ -1,3 +1,4 @@
+#Rubcov
 using HorizonSideRobots
 
 function cross!(robot)
